@@ -19,7 +19,7 @@
 <a href="https://github.com/aminzoroufi" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=aminzoroufi&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
